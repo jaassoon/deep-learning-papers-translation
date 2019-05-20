@@ -101,14 +101,9 @@
 
 ## Reward
 
-Will anyone find this?
+If you like what I'm doing and this project helps you reduce time to develop, please consider to
+☕ give me a cup of coffee
 
 * Wechat  
 
-<img width="275" alt="微信" src="https://user-images.githubusercontent.com/21311442/44447671-7a3dd300-a61b-11e8-88cb-d815acb67c5e.png"> 
-
-* Alipay  
-
-<img width="275" alt="支付宝" src="https://user-images.githubusercontent.com/21311442/44447780-cee14e00-a61b-11e8-8538-70398f84c53a.png">
-
--->
+<img width="275" alt="微信" src="https://user-images.githubusercontent.com/15890333/57992841-35cf5d00-7af1-11e9-812e-8d9981ee044f.jpg"> 
